@@ -1,0 +1,9 @@
+com\niit\model\User.class
+com\niit\Configuration\WebConfig.class
+com\niit\dao\UserDao.class
+com\niit\Configuration\WebResolver.class
+com\niit\Configuration\WebIntilizer.class
+collaboration_backend\App.class
+com\niit\Configuration\DBConfiguration.class
+com\niit\dao\UserDaoImpl.class
+com\niit\model\ErrorClazz.class
